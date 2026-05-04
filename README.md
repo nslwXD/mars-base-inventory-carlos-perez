@@ -6,3 +6,5 @@ Modulos Operativos.
 Oxigeno (Nivel: 95%)
 
 Agua (Nivel: 80%)
+
+Alimentos (Estado: En transito desde la Tierra)
